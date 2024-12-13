@@ -9,6 +9,7 @@
 #   "chardet",
 #   "scipy",
 #   "scikit-learn",
+#   "openai",
 # ]
 # ///
 

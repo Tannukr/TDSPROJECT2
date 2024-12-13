@@ -10,6 +10,7 @@
 #   "scipy",
 #   "scikit-learn",
 #   "openai",
+#   "fastapi",
 # ]
 # ///
 
